@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Translator App NA</string>
+    <string name="welcome_text">Welcome to the Translator app!
+        Say hello in different languages.</string>
+    <string name="start">English</string>
+    <string name="middle">German</string>
+    <string name="last">Italian</string>
+    <string name="message_1">English</string>
+    <string name="message_2">German</string>
+    <string name="message_3">Italian</string>
+    <string name="ETranslate">Hello!</string>
+    <string name="GTranslate">Hallo!</string>
+    <string name="ITranslate">Ciao!</string>
+    <string name="encrypt_text">Here is your encrypted message:</string>
+
+    <string name="find_language">Find Language - NA</string>
+    <string name="languages">No language selected</string>
+    <string-array name="lang_choice">
+        <item>English</item>
+        <item>German</item>
+        <item>Italian</item>
+    </string-array>
+
+</resources>
